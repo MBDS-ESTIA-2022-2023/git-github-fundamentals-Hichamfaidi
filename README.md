@@ -1,6 +1,4 @@
-#Hicham Faidi 25/09/2022
-
-Lu
+25/09/2022
 
 # :wave: The Basics of GitHub 
 
