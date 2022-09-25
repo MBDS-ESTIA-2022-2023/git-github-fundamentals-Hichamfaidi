@@ -1,3 +1,7 @@
+#Hicham Faidi 25/09/2022
+
+Lu
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
